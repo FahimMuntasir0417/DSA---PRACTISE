@@ -3,7 +3,6 @@
 Thumbs.db
 
 # --- IDE / Editor ---
-.vscode/
 .idea/
 *.code-workspace
 
@@ -55,3 +54,4 @@ output/
 *~
 
 cvn/
+config.bat
